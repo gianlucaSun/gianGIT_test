@@ -1,5 +1,5 @@
 package it.testGit;
 
-public class Marameo { 
+public class Pluto {
 
 }
